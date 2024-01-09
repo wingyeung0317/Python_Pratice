@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2022112802.09//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:10057@moodle2324.vtc.edu.hk
+SUMMARY:Programme_ESP32 &amp\; App Inventor is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231206T053529Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231206T090000Z
+DTEND:20231206T090000Z
+CATEGORIES:EEE3452_ENG_EEE_lister_1
+END:VEVENT
+BEGIN:VEVENT
+UID:10058@moodle2324.vtc.edu.hk
+SUMMARY:Hardware Photo is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231206T053617Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231206T090000Z
+DTEND:20231206T090000Z
+CATEGORIES:EEE3452_ENG_EEE_lister_1
+END:VEVENT
+BEGIN:VEVENT
+UID:10059@moodle2324.vtc.edu.hk
+SUMMARY:Report is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231206T053701Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231206T090000Z
+DTEND:20231206T090000Z
+CATEGORIES:EEE3452_ENG_EEE_lister_1
+END:VEVENT
+BEGIN:VEVENT
+UID:59796@moodle2324.vtc.edu.hk
+SUMMARY:Demo Video is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231206T053753Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231210T155900Z
+DTEND:20231210T155900Z
+CATEGORIES:EEE3452_ENG_EEE_lister_1
+END:VEVENT
+BEGIN:VEVENT
+UID:2855@moodle2324.vtc.edu.hk
+SUMMARY:Workshop D\, Editing 360 “FreeCapture” Video and adding video effec
+	ts (Refer to "Worksheet &amp\; Submission Template")\, submit the Word file
+	 only. is due
+	
+DESCRIPTION:You're required to edit the 360 “FreeCapture” Video by adding v
+	ideo effects\, e.g._ TEXT/TRANSITION/MUSIC\, ETC. FOR YOUR SEGMENTS _and ex
+	port to _.MP4_  video according to worksheet.\n\nSave and upload the follow
+	ing Word document and name it like this: "LASTNAME\, FIRSTNAME_WORKSHOP D.D
+	OCX"\n\nIt is your responsibility to make sure that the file opens before y
+	ou submit it.  Submit your file by clicking the "Save changes" button below
+	.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20231208T035223Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231211T155900Z
+DTEND:20231211T155900Z
+CATEGORIES:ITE3009_ENG_EEE_hwtiklee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:2856@moodle2324.vtc.edu.hk
+SUMMARY:Lab 7 - AR\, Submit your works by uploading the Word (.docx) &amp\;
+	 3D model (.blend) files is due
+	
+DESCRIPTION:Capture the screenshot of AR model with cellphone and insert in
+	to Word template_(.DOCX) _and upload both worksheet and 3D model _(.BLEND)_
+	 files.\n\nUpload adn save the following files and name it like this:\n\n	*
+	 "LASTNAME\, FIRSTNAME_LAB 7.DOCX"\n	* "LASTNAME\, FIRSTNAME_LAB 7.BLEND"\n
+	\nIt is your responsibility to make sure that the file opens before you sub
+	mit it.  Submit your files by clicking the "Save changes" button below.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20231106T080045Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231211T155900Z
+DTEND:20231211T155900Z
+CATEGORIES:ITE3009_ENG_EEE_hwtiklee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:2857@moodle2324.vtc.edu.hk
+SUMMARY:Workshop E - AR\, Submit your works by uploading the Word &amp\; 3D
+	 model files is due
+	
+DESCRIPTION:Capture the screenshot of AR model with cellphone and insert in
+	to Word template_(.DOCX) _and upload both worksheet and 3D model _(.BLEND)_
+	 files.\n\nUpload and save the following files and name it like this:\n\n	*
+	 "LASTNAME\, FIRSTNAME_WORKSHOP E.DOCX"\n	* "LASTNAME\, FIRSTNAME_CHAIR.BLE
+	ND"\n	* "LASTNAME\, FIRSTNAME_CUP.BLEND"\n\nIt is your responsibility to ma
+	ke sure that the file opens before you submit it.  Submit your files by cli
+	cking the "Save changes" button below.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20231106T080159Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231211T155900Z
+DTEND:20231211T155900Z
+CATEGORIES:ITE3009_ENG_EEE_hwtiklee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:57410@moodle2324.vtc.edu.hk
+SUMMARY:Class 1A: workshop submission is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231127T070714Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231211T155900Z
+DTEND:20231211T155900Z
+CATEGORIES:EEE3453_ENG_EEEPTE_joannlee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:58298@moodle2324.vtc.edu.hk
+SUMMARY:Class 1B: Workshop submission is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231130T040741Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231211T155900Z
+DTEND:20231211T155900Z
+CATEGORIES:EEE3453_ENG_EEEPTE_joannlee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:52535@moodle2324.vtc.edu.hk
+SUMMARY:Submission link of Mini-Project (Section B) is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231117T031053Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231213T155900Z
+DTEND:20231213T155900Z
+CATEGORIES:EEE3451_ENG_EEEPTE_wmlo_jack_1
+END:VEVENT
+BEGIN:VEVENT
+UID:2859@moodle2324.vtc.edu.hk
+SUMMARY:Group Project: submit your works by uploading the ReportTemplate .d
+	ocx and Presentation .pptx (if any) files is due
+	
+DESCRIPTION:THE WORD report document is required to upload by the Group Lea
+	der.  Submission of PowerPoint Presentation file is optional.\n\nSave and u
+	pload the following Word document\, and name it like this:\n\n	* EG11440X_1
+	X_GROUPNO_X_REPORT.DOCX \;\n	* If done\, EG11440X_1X_GROUPNO_X_PRESENTATION
+	.PPTX\n\nIt is your responsibility to make sure that the file can be opened
+	 before you submit it.  Submit your file by clicking the "Save changes" but
+	ton below.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20231206T035224Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231214T155900Z
+DTEND:20231214T155900Z
+CATEGORIES:ITE3009_ENG_EEE_hwtiklee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:54894@moodle2324.vtc.edu.hk
+SUMMARY:Submission link of Assignment is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231117T031108Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231214T155900Z
+DTEND:20231214T155900Z
+CATEGORIES:EEE3451_ENG_EEEPTE_wmlo_jack_1
+END:VEVENT
+BEGIN:VEVENT
+UID:56407@moodle2324.vtc.edu.hk
+SUMMARY:Class 1B: Mini project Submission is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231123T030927Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231220T155900Z
+DTEND:20231220T155900Z
+CATEGORIES:EEE3453_ENG_EEEPTE_joannlee_1
+END:VEVENT
+BEGIN:VEVENT
+UID:57413@moodle2324.vtc.edu.hk
+SUMMARY:Class 1A Mini-project  submission is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20231127T070906Z
+DTSTAMP:20231210T160244Z
+DTSTART:20231220T155900Z
+DTEND:20231220T155900Z
+CATEGORIES:EEE3453_ENG_EEEPTE_joannlee_1
+END:VEVENT
+END:VCALENDAR
